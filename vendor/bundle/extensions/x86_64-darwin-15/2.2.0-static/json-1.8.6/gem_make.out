@@ -1,0 +1,13 @@
+current directory: /Users/syouhei/projects/myapp/vendor/bundle/gems/json-1.8.6/ext/json
+/Users/syouhei/.rbenv/versions/2.2.3/bin/ruby -r ./siteconf20171024-4353-1oly7xl.rb extconf.rb
+creating Makefile
+
+current directory: /Users/syouhei/projects/myapp/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/syouhei/projects/myapp/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/syouhei/projects/myapp/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
